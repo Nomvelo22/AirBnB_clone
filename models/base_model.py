@@ -11,7 +11,7 @@ isoform_time = "%Y-%m-%dT%H:%M:%S.%f"
 
 class BaseModel:
     """
-        Summary: Definning the base class
+        Summary: Defines the base class
         from which the other classes will inherit
         Attributes:
             id -> Public instance attributes

@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 from models.base_model import BaseModel
 
-
 class City(BaseModel):
     """
         Summary: Definning the City class that inherits from BaseModel

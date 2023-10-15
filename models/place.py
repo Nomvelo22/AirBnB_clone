@@ -7,7 +7,7 @@ from models.base_model import BaseModel
 
 class Place(BaseModel):
     """
-        Summary: Definning the Place class that inherits from BaseModel
+        Summary: Defines the Place class that inherits from BaseModel
         Public class attributes:
             city_id string - empty string (it will be the City.id)
             user_id string - empty string (it will be the User.id)

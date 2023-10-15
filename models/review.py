@@ -4,10 +4,9 @@ class Review that inherits from BaseModel
 """
 from models.base_model import BaseModel
 
-
 class Review(BaseModel):
     """
-        Summary: Definning the Review class that inherits from BaseModel
+        Summary: Defines the Review class that inherits from BaseModel
         Public class attributes:
             text string - empty string
             place_id - empty string (it will be the Place.id)
